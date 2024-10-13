@@ -1,5 +1,5 @@
 <p align="center">
-<img width="40%" alt="Screenshot 2024-09-05 at 11 04 21 AM" src="https://github.com/user-attachments/assets/301ff0c8-e0ad-4151-83bf-2b27885b99b4">
+<img width="40%" alt="proxis" src="https://github.com/user-attachments/assets/301ff0c8-e0ad-4151-83bf-2b27885b99b4">
 </p>
 
 # vscode-triton
